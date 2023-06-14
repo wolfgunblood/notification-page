@@ -18,6 +18,12 @@
 
 body {
   margin: 0;
+  background-color: hsl(210, 60%, 98%);
+  height: 100vh;
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  /* overflow: hidden; */
  
 }
 

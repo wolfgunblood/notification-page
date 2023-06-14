@@ -1,0 +1,39 @@
+.notification-container{
+    background-color: hsl(0, 0%, 100%);
+    padding: 2rem;
+    // display: flex;
+
+
+    .notification-header{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 12px;
+        .notification-header-left{
+            display: flex;
+            gap: 12px;
+
+            h3{
+                margin: 0;
+            }
+            .btn{
+                color: #fff;
+                border: none;
+                outline: none;
+                background-color:  hsl(219, 12%, 42%);
+                padding: 0.4rem 0.8rem;
+                border-radius: 5px;
+            }
+        }
+        .notification-header-right{
+            margin: 0;
+            cursor: pointer;
+        }
+    }
+
+    .notification-body{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+}

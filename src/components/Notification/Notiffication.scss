@@ -1,0 +1,35 @@
+.notification-component{
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    padding: 1rem;
+    width: 40vw;
+    // justify-content: center ;
+    background-color: hsl(210, 60%, 98%);
+    .avatar{
+        height: 50px;
+        width: 50px;
+        object-fit: contain;
+    }
+    .notification-content{
+        
+        p{
+            margin: 0;
+        }
+
+        .message{
+            // width: 5rem;
+            background-color: hsl(0, 0%, 100%);
+            // border: 1px solid hsl(219, 12%, 42%);
+            outline: 1px solid rgba(219, 12, 42, 0.5);
+            padding: 1rem;
+            border-radius: 12px;
+            transition: 0.2s all ease-in-out;
+
+            &:hover{
+                outline: none;
+                background-color: hsl(205, 33%, 90%);
+            }
+        }
+    }
+}
