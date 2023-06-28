@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/wolfgunblood/notification-page)
-- Live Site URL: [Add live site URL here](https://wolfgunblood.github.io/notification-page/)
+- Solution URL: [Solution Repository](https://github.com/wolfgunblood/notification-page)
+- Live Site URL: [Live Demo](https://wolfgunblood.github.io/notification-page/)
 
 ## My process
 
