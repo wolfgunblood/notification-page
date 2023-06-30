@@ -65,7 +65,7 @@ Through building the Notification Page" project, I have learned:
 
 ## Author
 
-- Website - [Jalaj Doraiburu](https://wolfgunblood.github.io/portfolio/)
+- Website - [Jalaj](https://wolfgunblood.github.io/portfolio/)
 - Frontend Mentor - [@wolfgunblood](https://www.frontendmentor.io/profile/wolfgunblood)
 - Twitter - [@jalaj_dorai](https://twitter.com/jalaj_dorai)
 
